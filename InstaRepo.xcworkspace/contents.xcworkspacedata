@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:InstaRepo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/sherif/Desktop/My Mac/Dev/iOS/FadyProjects/WithOnboarding/Repost2/InstaRepo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
